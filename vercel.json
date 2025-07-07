@@ -3,6 +3,7 @@
   "outputDirectory": "dist",
   "env": {
     "ROLLUP_NO_BINARY": "true",
-    "LIGHTNINGCSS_DISABLE_NATIVE": "1"
+    "LIGHTNINGCSS_DISABLE_NATIVE": "1",
+    "NODE_ENV": "development"
   }
 }
