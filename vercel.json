@@ -2,6 +2,7 @@
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
   "env": {
-    "ROLLUP_NO_BINARY": "true"
+    "ROLLUP_NO_BINARY": "true",
+    "LIGHTNINGCSS_DISABLE_NATIVE": "true"
   }
 }
