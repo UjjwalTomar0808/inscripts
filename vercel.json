@@ -1,7 +1,6 @@
 {
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
-  "ignoreCommand": "echo 'No ignored files'",
   "env": {
     "ROLLUP_NO_BINARY": "true"
   }
